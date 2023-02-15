@@ -41,7 +41,7 @@ hr{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     position: relative;
-    left: 300px;
+    left: 0px;
 }
 table{
     position: relative;
@@ -54,4 +54,8 @@ ul{
 ol{
     position: relative;
     left: 300px;
+}
+#myname{
+    position: relative;
+    left: 0px;
 }
