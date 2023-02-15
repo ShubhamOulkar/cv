@@ -47,6 +47,10 @@ table{
     position: relative;
     left: 300px;
 }
+li{
+    position: relative;
+    left: 300px;
+}
 ul{
     position: relative;
     left: 300px;
@@ -58,4 +62,12 @@ ol{
 #myname{
     position: relative;
     left: 0px;
+}
+label{
+    position: relative;
+    left: 300px;
+}
+input{
+    position: relative;
+    left: 300px;
 }
